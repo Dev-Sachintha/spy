@@ -1,6 +1,15 @@
 # Personal Productivity Tracker
+![Personal Productivity Tracker Screenshot]
 
-![Personal Productivity Tracker Screenshot]([])
+![Screenshot (573)](https://github.com/user-attachments/assets/2a0e62b4-f358-463a-9f2d-14298bca47cf)
+![Screenshot (579)](https://github.com/user-attachments/assets/c0f46d23-a4a7-4c54-bc15-826eaa2e1ef8)
+![Screenshot (578)](https://github.com/user-attachments/assets/8ca6585b-95f7-465f-b41e-1cc9dc2306a0)
+![Screenshot (577)](https://github.com/user-attachments/assets/410e112e-3f4b-45db-bf70-51c7eaf59919)
+![Screenshot (576)](https://github.com/user-attachments/assets/5aa6e255-5a1f-47c0-bf15-200afc47e7f3)
+![Screenshot (575)](https://github.com/user-attachments/assets/a4d6aa7e-0a30-4ab1-912c-42c0baf299aa)
+![Screenshot (574)](https://github.com/user-attachments/assets/e587be32-1954-4871-9b8a-f79c43b2b459)
+
+
 
 A desktop application built with Python and Tkinter to help you track your application usage, monitor productivity, and gain insights into your computer habits.
 
