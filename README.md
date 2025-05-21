@@ -1,6 +1,6 @@
 # Personal Productivity Tracker
 
-![Personal Productivity Tracker Screenshot]([c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (575).png c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (576).png c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (577).png c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (578).png c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (579).png c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (573).png c:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (574).png])
+![Personal Productivity Tracker Screenshot]([])
 
 A desktop application built with Python and Tkinter to help you track your application usage, monitor productivity, and gain insights into your computer habits.
 
