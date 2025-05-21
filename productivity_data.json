@@ -1,0 +1,318 @@
+{
+    "sessions": [
+        {
+            "date": "2025-05-19",
+            "start_time": "17:53:29",
+            "end_time": "17:56:40",
+            "duration": 190.3820128440857,
+            "applications": {
+                "Personal Productivity Tracker": 71.94524312019348,
+                "Administrator: Command Prompt": 13.02657413482666,
+                "Troubleshoot Remote Productivity Tracking - Claude - Google Chrome": 102.17244148254395,
+                "Select Administrator: Command Prompt": 3.00537371635437
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "17:56:51",
+            "end_time": "17:59:12",
+            "duration": 140.3539822101593,
+            "applications": {
+                "Personal Productivity Tracker": 138.79235982894897,
+                "New notification": 1.0061097145080566
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "18:04:11",
+            "end_time": "18:04:17",
+            "duration": 5.333507776260376,
+            "applications": {
+                "Personal Productivity Tracker": 4.723645448684692
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "18:27:33",
+            "end_time": "19:01:46",
+            "duration": 2053.1437566280365,
+            "applications": {
+                "Personal Productivity Tracker": 1147.398567199707,
+                "Unknown": 780.2467732429504,
+                "Windows Default Lock Screen": 114.16716647148132,
+                "Network Connections": 11.017808198928833
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "19:02:33",
+            "end_time": "19:06:37",
+            "duration": 243.55867505073547,
+            "applications": {
+                "Personal Productivity Tracker": 131.93027591705322,
+                "Administrator: Command Prompt": 110.2396628856659,
+                "Unknown": 1.0037856101989746
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "19:06:46",
+            "end_time": "19:12:16",
+            "duration": 329.8245675563812,
+            "applications": {
+                "Personal Productivity Tracker": 329.80634093284607
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "19:12:24",
+            "end_time": "19:21:07",
+            "duration": 522.5288286209106,
+            "applications": {
+                "Personal Productivity Tracker": 287.08449029922485,
+                "Unknown": 8.019272804260254,
+                "Network Connections": 9.016704320907593,
+                "Copilot Vision in Edge and 2 more pages - Personal - Microsoft\u200b Edge": 27.206536531448364,
+                "Windows Shell Experience Host": 1.0026469230651855,
+                "Action center": 10.020686388015747,
+                "Reports": 179.2959222793579
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "19:25:14",
+            "end_time": "19:27:26",
+            "duration": 131.23207783699036,
+            "applications": {
+                "Personal Productivity Tracker": 120.11575675010681,
+                "Productivity Tracker Setup | Google AI Studio - Google Chrome": 11.013229608535767
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "19:53:53",
+            "end_time": "19:54:24",
+            "duration": 31.063004970550537,
+            "applications": {
+                "Personal Productivity Tracker": 31.033591270446777
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "19:59:04",
+            "end_time": "23:02:23",
+            "duration": 10999.358468532562,
+            "applications": {
+                "Personal Productivity Tracker": 300.1565043926239,
+                "Claude - Google Chrome": 73.13341856002808,
+                "main.py - spy - Visual Studio Code": 301.49792766571045,
+                "New Tab - Google Chrome": 190.3174660205841,
+                "basic client server architecture - Google Search - Google Chrome": 82.13942003250122,
+                "geeksforgeeks.org/client-server-architecture-system-design/ - Google Chrome": 1.0017423629760742,
+                "Client-Server Architecture \u2013 System Design | GeeksforGeeks - Google Chrome": 3701.5171587467194,
+                "what is database architecture and types of database architecture - Google Search - Google Chrome": 25.03639006614685,
+                "what is types of database architecture - Google Search - Google Chrome": 13.024597644805908,
+                "Understanding DBMS Architecture: Types, Examples, and Advantages - Google Chrome": 3307.334881067276,
+                "Untitled - Google Chrome": 1.0022501945495605,
+                "NxtWave | Revolutionizing the Job Market - Google Chrome": 4.003358840942383,
+                "WhatsApp": 401.6482210159302,
+                "New notification": 1.002061367034912,
+                "Administrator: Command Prompt": 2.001753568649292,
+                "*Untitled - Notepad": 1.0012140274047852,
+                "Unknown": 1302.5359444618225,
+                "Search": 19.02603578567505,
+                "Start": 26.042140245437622,
+                "Windows Default Lock Screen": 1238.261006116867,
+                "Network Connections": 7.016190767288208
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "23:02:39",
+            "end_time": "23:06:57",
+            "duration": 258.53175950050354,
+            "applications": {
+                "Personal Productivity Tracker": 250.76445627212524,
+                "Unknown": 6.006590366363525,
+                "Opening - Word": 1.0023143291473389
+            }
+        },
+        {
+            "date": "2025-05-19",
+            "start_time": "23:07:06",
+            "end_time": "23:11:17",
+            "duration": 250.52211666107178,
+            "applications": {
+                "Personal Productivity Tracker": 241.34946751594543,
+                "Understanding DBMS Architecture: Types, Examples, and Advantages - Google Chrome": 3.0236659049987793,
+                "Untitled - Google Chrome": 1.0020911693572998,
+                "spy": 3.0075809955596924,
+                "Unknown": 1.0009405612945557,
+                "Jump List for Outlook (new)": 1.0065515041351318
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "17:43:47",
+            "end_time": "17:45:03",
+            "duration": 76.38441920280457,
+            "applications": {
+                "Personal Productivity Tracker": 66.60079145431519,
+                "Unknown": 3.0123584270477295,
+                "Telegram": 4.013107776641846,
+                "Telegram (45961)": 1.0018575191497803,
+                "Telegram (49734)": 1.0023689270019531
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "17:56:35",
+            "end_time": "17:57:30",
+            "duration": 55.13620328903198,
+            "applications": {
+                "Personal Productivity Tracker": 50.30950617790222,
+                "Productivity Tracker Class Def | Google AI Studio - Google Chrome": 2.0061681270599365,
+                "Document1 - Word": 2.0036733150482178
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:10:46",
+            "end_time": "18:11:24",
+            "duration": 38.059404611587524,
+            "applications": {
+                "Personal Productivity Tracker": 28.62623620033264,
+                "Personal Productivity Tracker Post - Google Chrome": 6.0070481300354,
+                "phython": 3.006073236465454
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:12:54",
+            "end_time": "18:13:24",
+            "duration": 30.050766706466675,
+            "applications": {
+                "Personal Productivity Tracker": 24.376872062683105,
+                "Document1 - Word": 2.003976821899414,
+                "explorer.exe": 1.0052080154418945,
+                "*Untitled - Notepad": 2.006135940551758
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:14:12",
+            "end_time": "18:14:29",
+            "duration": 17.073081970214844,
+            "applications": {
+                "Personal Productivity Tracker": 8.61264681816101,
+                "phython": 2.003671646118164,
+                "main.py - spy - Visual Studio Code": 3.0033226013183594,
+                "MINGW64:/c/phython/spy": 3.005270004272461
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:16:09",
+            "end_time": "18:16:31",
+            "duration": 22.048673152923584,
+            "applications": {
+                "Personal Productivity Tracker": 21.24731469154358
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:16:39",
+            "end_time": "18:16:56",
+            "duration": 17.032448530197144,
+            "applications": {
+                "Personal Productivity Tracker": 9.704986810684204,
+                "Document1 - Word": 4.009294033050537,
+                "Personal Productivity Tracker Post - Google Chrome": 3.0056817531585693
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:18:43",
+            "end_time": "18:19:28",
+            "duration": 45.11732840538025,
+            "applications": {
+                "Personal Productivity Tracker": 37.594836950302124,
+                "phython": 2.0315005779266357,
+                "explorer.exe": 1.0046043395996094,
+                "Copilot Vision in Edge and 2 more pages - Personal - Microsoft\u200b Edge": 4.005766868591309
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:27:31",
+            "end_time": "18:28:48",
+            "duration": 77.12249612808228,
+            "applications": {
+                "Personal Productivity Tracker": 45.663654088974,
+                "Copilot Vision in Edge and 2 more pages - Personal - Microsoft\u200b Edge": 8.011693000793457,
+                "New tab and 2 more pages - Personal - Microsoft\u200b Edge": 12.020373106002808,
+                "rfgrgd - Search and 2 more pages - Personal - Microsoft\u200b Edge": 11.016379117965698
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:35:02",
+            "end_time": "18:35:15",
+            "duration": 13.252023935317993,
+            "applications": {
+                "Personal Productivity Tracker": 9.7468581199646,
+                "Document1 - Word": 2.0246729850769043,
+                "Word": 1.0032732486724854
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "18:39:09",
+            "end_time": "18:39:46",
+            "duration": 37.28405022621155,
+            "applications": {
+                "Personal Productivity Tracker": 36.45307207107544
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "20:35:06",
+            "end_time": "20:36:17",
+            "duration": 70.67759728431702,
+            "applications": {
+                "Personal Productivity Tracker": 60.407363176345825,
+                "AlertWindow": 3.0266754627227783,
+                "Network Connections": 7.03949499130249
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "20:36:26",
+            "end_time": "20:36:34",
+            "duration": 8.170565605163574,
+            "applications": {
+                "Personal Productivity Tracker": 7.186524152755737
+            }
+        },
+        {
+            "date": "2025-05-20",
+            "start_time": "20:38:57",
+            "end_time": "21:50:47",
+            "duration": 4310.323783874512,
+            "applications": {
+                "Personal Productivity Tracker": 29.397358417510986,
+                "Monitor": 33.24030137062073,
+                "Personal Productivity Tracker Post - Google Chrome": 1.002347469329834,
+                "byjus.com/maths/roman-numerals/#:~:text=These roman numerals are I,%2C \u2026 till XX for 20. - Google Chrome": 4235.48618221283,
+                "New notification": 2.0047757625579834,
+                "Reports": 7.014878511428833,
+                "explorer.exe": 1.309380292892456
+            }
+        }
+    ],
+    "settings": {
+        "theme": "Dark Blue",
+        "focus_apps": "Word,Excel,PowerPoint,Visual Studio Code,PyCharm,Photoshop,Chrome,Firefox,Edge",
+        "daily_goal": 8.0
+    }
+}
