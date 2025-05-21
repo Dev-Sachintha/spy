@@ -1,5 +1,5 @@
 # Personal Productivity Tracker
-![Personal Productivity Tracker Screenshot]
+[Personal Productivity Tracker Screenshot]
 
 ![Screenshot (573)](https://github.com/user-attachments/assets/2a0e62b4-f358-463a-9f2d-14298bca47cf)
 ![Screenshot (579)](https://github.com/user-attachments/assets/c0f46d23-a4a7-4c54-bc15-826eaa2e1ef8)
